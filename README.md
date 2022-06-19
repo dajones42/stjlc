@@ -6,7 +6,7 @@ St. Johnsbury & Lake Champlain before 1948.
 
 This is a work in progress.  Track work is mostly done, although I plan on
 making custom shapes for the two crossings in the future.  Most towns have
-track side building only.  There are no activities, but there are paths that
+track side buildings only.  There are no activities, but there are paths that
 start at all locations listed in the time table (see stjlcett93April271947.pdf).
 
 This route was built on Linux using mostly home made tools.  It was tested
@@ -16,7 +16,7 @@ using OR 1.3.1 run via Wine.  Will not work in MSTS.
 
 Copy or clone into the ROUTES directory of an Microsoft Train Simulator
 installation or miniroute.  You will need a version of the global tsection.dat
-that contains some Scale Rail shapes, but you don't know the shapes themselves.
+that contains some Scale Rail shapes, but you don't need the shapes themselves.
 I use build 00038.
 
 ## Credits
