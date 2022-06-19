@@ -25,8 +25,8 @@ Most of the shapes and textures in this route were created by others,
 including: Ron Picardi, Paul Charland, Hank Sundermeyer, Gary Sprandel,
 Doug Relyea, Ted Curphey, Simon van de Laak, Brad Miles, Chris Gerlach,
 Jared Singletary, Tom Werb, John Fleming, Tim Muir, Steven West,
-Joe Cooney, Philip M. Voxland, Bernard Lafargue, Norbert Rieger and
-Mark Ratledge.
+Joe Cooney, Philip M. Voxland, Bernard Lafargue, Norbert Rieger, Mark Ratledge
+and Mike Deming.
 
 Many of these shapes and textures require that the route be distributed
 free of charge.
