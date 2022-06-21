@@ -15,9 +15,9 @@ using OR 1.3.1 run via Wine.  Will not work in MSTS.
 ## Installation
 
 Copy or clone into the ROUTES directory of an Microsoft Train Simulator
-installation or miniroute.  You will need a version of the global tsection.dat
-that contains some Scale Rail shapes, but you don't need the shapes themselves.
-I use build 00038.
+installation or miniroute.  Make sure the route directory name is stjlc.
+You will need a version of the global tsection.dat that contains some
+Scale Rail shapes, but you don't need the shapes themselves.  I use build 00038.
 
 ## Credits
 
